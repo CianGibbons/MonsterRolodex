@@ -1,3 +1,7 @@
+# MonsterRolodex
+This is my first experiment with React. It is a simple application for searching between different monsters
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
